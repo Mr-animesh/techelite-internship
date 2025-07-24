@@ -33,7 +33,7 @@ steps = 2000</pre>
 <p float="left">
   <img src="/assets/virat-kohli.jpg" width="200"/>
   <img src="/assets/artist_style.jpg" width="200"/>
-  <img src="/assets/output_image.png" width="200"/>
+  <img src="./output_image.png" width="200"/>
 </p>
 
 
