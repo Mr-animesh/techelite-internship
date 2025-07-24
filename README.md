@@ -29,12 +29,8 @@ style_weight = 1e2
 steps = 2000```</pre>
 
 ### Style image:
-<table>
-<tr>
-<td>![Styled Image](./virat-kohli.jpg)</td>
-<td>![Styled Image](./output_image.png)</td>
-<tr>
-</table>
+![Original Image](./virat-kohli.jpg)
+![Styled Image](./output_image.png)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### TASK 4: Generative Text Model ###
