@@ -29,8 +29,11 @@ style_weight = 1e2
 steps = 2000```</pre>
 
 ### Style image:
-![Original Image](./virat-kohli.jpg)
-![Styled Image](./output_image.png)
+<p float="left">
+  <img src="./virat-kohli.jpg" width="200"/>
+  <img src="./artist_style.jpg" width="200"/>
+  <img src="./output_image.png" width="200"/>
+</p>
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### TASK 4: Generative Text Model ###
